@@ -38,6 +38,3 @@ The particular curves available are:
 3. Koch curve
 4. Hilbert curve
 5. Koch snowflake
-
-# TODO
-1. add stack for plant fractal generation
